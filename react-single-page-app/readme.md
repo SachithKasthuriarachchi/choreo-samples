@@ -1,4 +1,4 @@
-# React Single Page Application
+# React Single Page Application - Test
 
 This is a sample React application that can be used to demonstrate WebApp deployments of Choreo.
 
